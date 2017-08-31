@@ -95,7 +95,7 @@ git clone https://github.com/carlosfgti/docker-lemp-php7-phpmyadmin.git
 Go to the project directory : 
 
 ```sh
-cd docker-nginx-php-mysql
+cd docker-lemp-php7-phpmyadmin
 ```
 
 ### Project tree
