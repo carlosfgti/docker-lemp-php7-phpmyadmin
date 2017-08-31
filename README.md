@@ -102,7 +102,6 @@ cd docker-lemp-php7-phpmyadmin
 
 ```sh
 .
-├── Makefile
 ├── README.md
 ├── data
 │   └── db
